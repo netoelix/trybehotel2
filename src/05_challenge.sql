@@ -1,1 +1,1 @@
-SELECT * FROM trybe_hotel.users WHERE created_at BETWEEN '01/06/2022' AND '01/06/2023';
+SELECT * FROM trybe_hotel.users WHERE created_at BETWEEN '2022-06-01' AND '2023-06-01';
